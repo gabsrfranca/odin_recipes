@@ -11,10 +11,6 @@ O projeto apresenta receitas em páginas próprias, com listas de ingredientes e
 1. Clone ou baixe este repositório.
 2. Abra o arquivo `index.html` no navegador.
 
-Ou
-
-https://gabsrfranca.github.io/odin_recipes/
-
 ## Tecnologias
 
 - HTML
